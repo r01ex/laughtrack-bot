@@ -1,0 +1,3 @@
+C:\Users\kimta\source\repos\discordVoiceBot\obj\Debug\discordVoiceBot.njsproj.AssemblyReference.cache
+C:\Users\kimta\source\repos\discordVoiceBot\obj\Debug\discordVoiceBot.njsproj.CoreCompileInputs.cache
+C:\Users\kimta\source\repos\discordVoiceBot\bin\Microsoft.NodejsTools.WebRole.dll

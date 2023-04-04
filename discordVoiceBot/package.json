@@ -1,0 +1,16 @@
+{
+  "name": "discord-voice-bot",
+  "version": "0.0.0",
+  "description": "discordVoiceBot",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.14.0",
+    "discord.js": "^14.7.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.1.0",
+    "sodium": "^3.0.2"
+  }
+}
